@@ -1,0 +1,7 @@
+rhes	H3K27ac	rhes_h3k27ac_r1.bam
+rhes	H3K27ac	rhes_h3k27ac_r2.bam
+rhes	H3K4me1	rhes_h3k4me1_r1.bam
+rhes	H3K4me1	rhes_h3k4me1_r2.bam
+rhes	H3K4me3	rhes_h3k4me3_r1.bam
+rhes	H3K4me3	rhes_h3k4me3_r2.bam
+rhes	ATAC	rhes_atac.bam

@@ -1,0 +1,7 @@
+h9	H3K4me3	D725C01.hg38.uniq.bam
+h9	H3K4me3	D725C08.hg38.uniq.bam
+h9	H3K4me1	D725C02.hg38.uniq.bam
+h9	H3K4me1	D725C09.hg38.uniq.bam
+h9	H3K27ac	D725C03.hg38.uniq.bam
+h9	H3K27ac	D725C10.hg38.uniq.bam
+h9	DNAseSeq	ENCFF291ZMA.bam
